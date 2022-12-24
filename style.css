@@ -1,0 +1,104 @@
+body{
+    background-color: #F5EBE0;
+}
+img{
+    border-style: none;
+    border-color: black;
+    height: 300px;
+}
+h1{
+    color: brown;
+    font-size: 100px;
+}
+p1{
+    color:#E97777;
+    font-size:80px;
+    font-family: 'Brush Script MT', cursive;
+}
+p2{
+    color:#C58940;
+    font-size: 30px;
+}
+hr{
+    border-style: dotted none none;
+    width:8%;
+    border-width:5px;
+    border-color: #A555EC;
+}
+p3{
+    font-size: 20px;
+    font-family: Georgia, serif;
+}
+p4{
+    color:#C58940;
+    font-size: 50px;
+}
+p5{
+    color:#C58940;
+    font-size: 25px;
+}
+p6{
+    font-size:18px;
+}
+p7{
+    font-size: 16px;;
+}
+p8{
+    font-size:25px ;
+    color: #68B984;
+}
+button {
+    background-color: #68B984;
+    padding: 16px 120px;
+    border: none;
+    border-color: white;
+    cursor: pointer;
+    border-radius: 1cm;
+    
+}
+p9{
+    color:#c3ead1 ;
+}
+table{
+    width: 45%;
+}
+p10{
+    font-size: 25px;
+}
+button1 :hover{
+    background-color:none;
+    border: none;
+    border-radius: 1cm;
+    cursor: pointer;
+    border-color:#F5EBE0 ;
+    color: black;
+}
+p10{
+    color:white;
+    font-size: 25px;
+    font-family:  "Brush Script MT", cursive;
+}
+
+
+
+/*################################ class slector #######################################*/
+
+
+.tree{
+    height:50px;
+}
+.chrismus{
+    width: 100%;
+    background-color: #5F8D4E;
+    height:200px;
+}
+.chrismus1{
+    height: 50px;
+}
+.chandan{
+    width: 100%;
+    height:750px;
+}
+.button1 :hover{
+    color: rgb(0, 0, 0);
+}
