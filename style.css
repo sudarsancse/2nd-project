@@ -3,55 +3,52 @@ body{
     margin: 0;
     text-align: center;
 }
-/*img{
-    border-style: none;
-    border-color: black;
-    height:300px;   
-}*/
+
 h1{
     color: brown;
     font-size: 100px;
 }
+
 p1{
-    color:#E97777;
+    color:#66BFBF;
     font-size:80px;
     font-family: 'Brush Script MT', cursive;
 }
+
 p2{
     color:#C58940;
     font-size: 25px;
 }
+
 hr{
     border-style: dotted none none;
     width:6%;
     border-width:5px;
     border-color: #A555EC;
 }
+
 p3{
     font-size: 20px;
     font-family: Georgia, serif;
     color:#D8D9CF;
 }
+
 p4{
     color:#C58940;
     font-size: 50px;
 }
-p5{
-    color:#C58940;
-    font-size: 25px;
-}
-p6{
-    font-size:18px;
-    color:#D8D9CF;
-}
+
 p7{
     font-size: 16px;
     color:#D8D9CF;
+    text-align: left;
 }
+
 p8{
     font-size:25px ;
     color: #68B984;
 }
+
 button {
     background-color: #68B984;
     padding: 16px 120px;
@@ -59,17 +56,16 @@ button {
     border-color: white;
     cursor: pointer;
     border-radius: 1cm;
-    
 }
-p9{
-    color:#c3ead1 ;
-}
+
 table{
     width: 45%;
 }
+
 p10{
     font-size: 25px;
 }
+
 button1 :hover{
     background-color:none;
     border: none;
@@ -78,20 +74,33 @@ button1 :hover{
     border-color:#F5EBE0 ;
     color: black;
 }
+
 p10{
     color:white;
     font-size: 25px;
     font-family:  "Brush Script MT", cursive;
 }
+
 p11{
     font-size: 16px;
     color:#D8D9CF;
 }
+
 p12{
-    position:relative;
-    bottom: 70px;
-    font-size: 50px;
     color:#D8D9CF;
+    font-size: 17px;
+    text-align:left;
+    position: relative;
+    bottom: 6px;
+}
+
+h3{
+    color:#c3ead1 ;
+    font-size: 22px;
+    text-align: left;
+    padding-top: 20px;
+    position: relative;
+    top: 6px;
 }
 
 
@@ -102,45 +111,88 @@ p12{
 .tree{
     height:50px;
 }
+
 .chrismus{
     width: 100%;
     background-color: #5F8D4E;
     height:200px;
 }
+
 .chrismus1{
     height: 50px;
     width: 100%;
 }
-/*.chandan{
-    width: 100%;
-    height:500px;
-}*/
+
 .button1 :hover{
     color: rgb(0, 0, 0);
 }
+
 .top-right-cloud{
     position: relative;
     left: 280px;
     top:20px;
     padding: 30px;
 }
+
 .top-left-cloud{
     position: relative;
     right: 31.25rem;
     top:20px;
     padding: 30px;
 }
+
 .button-left-cloud{
     position: relative;
     bottom: 300px;
     right:0;
 }
+
 .buttom-right-cloud{
     position: relative;
     bottom: 300px;
     left: 200px;
 }
+
+.class1{
+    text-align: left;
+    margin:50px 28% 50px 28%;
+    
+}
+
+.class2{
+    text-align: left;
+    margin:50px 28% 50px 28%;
+}
+
 .chandan1{
-    width: 150px;
-    height: 150px;
+    width:8rem;
+    float: left;
+   padding-right: 10px;
+    
+}
+
+.design-image{
+    width:8rem;
+    float: right;
+    margin-right:30px ;
+}
+
+.chandan2{
+    width:8rem;
+    float: left;
+    margin-right: 10px;
+    position: relative;
+    bottom: 50px;
+}
+
+.chandan3{
+    width:8rem;
+    float: left;
+    padding-right: 5px;
+    
+}
+
+.bm{
+    color:#C58940;
+    font-size: 25px;
 }
