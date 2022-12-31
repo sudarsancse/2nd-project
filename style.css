@@ -1,7 +1,6 @@
 body{
     margin: 0;
     text-align: center;
-    background-color: #181D31;
 }
 
 h1{
@@ -18,21 +17,42 @@ h2{
 }
 
 h3{
-    color: #c3ead1;
+    color: #11999E;
     font-size: 27px;
     position: relative;
     bottom: 5px;
     margin: 0;
 }
 
+h4{
+    color: #098b36;
+    font-size: 27px;
+    position: relative;
+    bottom: 5px;
+    margin: 0;
+}
+
+p{
+    color:#EAF6F6 ;
+    font-family: 'Mukta', sans-serif;
+
+}
+
 p1{
     position: relative;
     bottom: 13px;
-    color: whitesmoke;
+    color: #40514E;
+}
+
+.hell{
+    font-weight: bold;
+    line-height:2;
+    font-size: 20px;
 }
 
 p2{
-    color: whitesmoke;
+    color: #40514E;
+    line-height:2;
 }
 
 p3:hover{
@@ -47,7 +67,16 @@ hr{
     margin: 50px auto;
 }
 
+a{
+    font-family: 'Mukta', sans-serif;
+    text-decoration: none;
+    color: #066467;
+    margin: 0 10px;
+}
 
+a:hover{
+    color:#EAF6F6 ;
+}
 
 
 
@@ -58,12 +87,13 @@ hr{
     background-color: #181D31;
     position: relative;
     padding-top: 100px;
-    padding-bottom: 30px;
+
 }
 
 .profile{
-    width: 40%;
+    width: 30%;
     margin: 0 auto 0 auto;
+
 }
 
 .top-cloud{
@@ -78,9 +108,9 @@ hr{
 }
 
 .profile{
-    background-color: #181D31;
     padding-top: 1px;
-    padding-bottom:20px;
+    padding-bottom:15px;
+    margin-bottom: 3px;
 }
 
 .skill-row{
@@ -107,9 +137,10 @@ hr{
     margin: 0 auto 50px;
 }
 
+
 .gmail{
-    background-color: #68B984;
-    padding: 16px 120px;
+    background-color: #66BFBF;
+    padding: 16px 50px;
     border: none;
     border-color: white;
     cursor: pointer;
@@ -120,12 +151,13 @@ hr{
 }
 
 .bottom-container{
-    height: 50px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding-bottom: 0;
-    text-align: center;
+    background-color: #66BFBF;
+    margin: 30px auto 0;
+    padding: 50px  0 20px ;
 }
+
+
+
 
 .tree{
     margin: 0;
